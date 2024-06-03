@@ -35,10 +35,5 @@ echo 'command -v pyenv >/dev/null || export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.
 
 echo 'eval "$(pyenv init -)"' >> ~/.zshrc
 
-  
-
-  
-
-pip install gpustat
 
 sudo apt install tmux
