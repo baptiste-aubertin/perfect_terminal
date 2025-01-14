@@ -28,3 +28,9 @@ curl https://pyenv.run/ | bash
 pip install gpustat
 
 sudo apt install tmux
+
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+
+zsh
+
+nvm install node
